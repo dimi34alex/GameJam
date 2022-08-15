@@ -41,7 +41,7 @@ public class Timer : MonoBehaviour
         TimeText.text = Time.ToString();
         while (Time > 0)
         {
-            yield return new WaitForSeconds(1);
+            yield return new WaitForSeconds(0.5f);
             Time -= 1;
             TimeText.text = Time.ToString();
         }

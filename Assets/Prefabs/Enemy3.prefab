@@ -207,9 +207,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37a16478015846f4790e5b8ddea22941, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxDistance: 2.7
-  Speed: 2.19
-  SpeedMultiplier: 4.1
+  maxDistance: 1
+  Speed: 2.96
+  SpeedMultiplier: 1.21
   RotateDesiredDuration: 1
 --- !u!114 &-2520272469835171139
 MonoBehaviour:
