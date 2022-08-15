@@ -114,8 +114,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxDistance: 2.7
-  Speed: 1.71
-  SpeedMultiplier: 1.25
+  Speed: 2.19
+  SpeedMultiplier: 4.1
   RotateDesiredDuration: 1
 --- !u!114 &5407227414528241405
 MonoBehaviour:
@@ -130,6 +130,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   multiplicationFactorPerPower: 2
+  absorptionModifier: 1
   maxSize: 15
 --- !u!1 &1925286861266364950
 GameObject:
